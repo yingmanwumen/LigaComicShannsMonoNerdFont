@@ -5,3 +5,5 @@ This repository is inspired by [This post](https://www.reddit.com/r/emacs/commen
 The fonts are made with the `ComicShannsMono Nerd Font` in [Nerd Font](https://www.nerdfonts.com/font-downloads) and [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) by following the [operations](https://github.com/ToxicFrog/Ligaturizer?tab=readme-ov-file#using-the-script) step by step.
 
 I did not modify the configs in `ligatures.py`. If you'd like to add or remove some ligatures, just do the same thing described above.
+
+The original font is in [comic-shanns](https://github.com/shannpersand/comic-shanns).
